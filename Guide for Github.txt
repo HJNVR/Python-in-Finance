@@ -5,7 +5,9 @@ Common commands:
 	git rm files
 	git commit -m ""
 	git push
-(3) 
+(3) when local change and master/origin change at the same time
+	git stash
+	git pull  
 
 
 
