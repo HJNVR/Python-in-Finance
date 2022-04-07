@@ -1,3 +1,18 @@
+Common commands:
+(1) show files in github:
+	 git ls
+(2) delete files in github: 
+	git rm files
+	git commit -m ""
+	git push
+(3) 
+
+
+
+
+
+
+
 1. When first time create and upload folder
 	(1) developer settings 
 	(2) select by checking the squares
